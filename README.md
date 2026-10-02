@@ -34,9 +34,10 @@ Git | GitHub | VS Code | Jupyter
 
 ## 📌 Featured Projects
 
-Coming soon...
-
----
+| 🩺 Life-Link | Long-term academic project developed across my first two semesters |
+| 📊 Data Analysis Projects | Exploring real-world datasets using Python |
+| 🧮 DSA Projects | Practicing algorithms and problem-solving |
+| 🤖 AI Embassy | Exploring an AI-powered startup concept |
 
 ## 🎯 Current Goal
 
