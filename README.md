@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Muhammad Ubaid Ur Rehman 👋
 
-<!--
-**ubaidsaleem/ubaidsaleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Science Student | Python | Data Analysis | AI
 
-Here are some ideas to get you started:
+I'm a Data Science student focused on building practical
+projects while developing strong foundations in programming,
+data analysis, algorithms, and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Working On
+
+- 📊 Data Analysis with Python
+- 🐍 Python & problem solving
+- 🧠 Data Structures & Algorithms
+- 🗄️ SQL & databases
+- 🤖 Exploring AI/ML
+- 🌍 Building AI Embassy
+
+---
+
+## 🛠️ Technologies
+
+### Languages
+Python | SQL | C/C++
+
+### Data
+Pandas | NumPy | Matplotlib
+
+### Tools
+Git | GitHub | VS Code | Jupyter
+
+---
+
+## 📌 Featured Projects
+
+Coming soon...
+
+---
+
+## 🎯 Current Goal
+
+Build real-world projects, contribute to open source,
+and grow into a professional Data Scientist / AI Developer.
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn]([...](https://www.linkedin.com/in/ubaid-saleem-6145b5389?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[GitHub]((https://github.com/ubaidsaleem))
